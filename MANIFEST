@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Net-SMTP-AfterPOP.t
+lib/Net/SMTP/AfterPOP.pm
